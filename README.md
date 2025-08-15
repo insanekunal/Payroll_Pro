@@ -293,13 +293,5 @@ For support and questions:
 - Check the documentation in the `docs/` folder
 - Review the codebase for implementation examples
 
-## 🎉 Acknowledgments
-
-- Built with [Fusion Starter](https://github.com/BuilderIO/fusion-starter)
-- UI components based on [Radix UI](https://radix-ui.com/)
-- Icons provided by [Lucide](https://lucide.dev/)
-- Charts powered by [Recharts](https://recharts.org/)
-
----
 
 **PayrollPro** - Modern payroll management made simple. Built with ❤️ using React and TypeScript.
